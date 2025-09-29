@@ -33,7 +33,7 @@ To maintain consistency and remove extreme cases, only those sentence pairs are 
 Additionally, the difference in word counts between the two languages is computed, and only those pairs with a difference between -10 and +10 are kept. 
 The final cleaned dataset is saved into an Excel file named cleaned_dataset.xlsx, which contains the English sentence, Hindi sentence, word count for each, and the difference. 
 This ensures that the dataset is balanced, filtered, and ready for further translation tasks.
-
+***Total sentences I got after cleaning: 8210***
 
 
 **Assignment 2 – Translation with LLM**
@@ -73,8 +73,8 @@ viewing and verification.
 
 
 
-***BLEU Score: 11.465496299543915
-CHRF Score: 32.17189095938202
+***BLEU Score: 11.465496299543915,   
+CHRF Score: 32.17189095938202,   
 TER Score: 85.99242833964304***
 
-***Total sentences I got after cleaning: 8210***
+
