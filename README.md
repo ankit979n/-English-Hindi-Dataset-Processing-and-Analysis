@@ -68,4 +68,13 @@ Each English sentence is passed through the model, and the generated Hindi trans
 from the dataset using the sacrebleu library, which calculates standard machine translation evaluation metrics: BLEU, CHRF, and TER scores. These scores are written into a text file called translation_scores.txt 
 to document the overall translation performance. Finally, the English sentences and their model-generated Hindi translations are saved into an Excel file named translation_output.xlsx for easy 
 viewing and verification.
-    
+
+
+
+
+
+***BLEU Score: 11.465496299543915
+CHRF Score: 32.17189095938202
+TER Score: 85.99242833964304***
+
+***Total sentences I got after cleaning: 8210***
